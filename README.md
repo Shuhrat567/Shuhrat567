@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align='center'>
-  <img src='[https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966](https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966)' >
+  <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSurya9263&psig=AOvVaw0qwByvh9mFOLjHXhG5mn7l&ust=1694179281792000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPiP58HMmIEDFQAAAAAdAAAAABAE' >
  </div>
  
  <br>
